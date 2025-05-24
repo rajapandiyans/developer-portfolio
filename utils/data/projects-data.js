@@ -21,7 +21,17 @@ export const projectsData = [
         code: '',
         demo: '',
         image: travel,
-    }
+    },
+    {
+        id: 3,
+        name: 'Predictive Maintenance Sytem Using Sensor Data For Equipment Failure Prediction',
+        description: "I have built app to predict system equipments failures before they occur using sensor datas and ml algorithms, i used python to built and MySQl to the sever-end .",
+        tools: ['Python' , 'MySQL' ],
+        role: 'Fullstack Developer',
+        code: '',
+        demo: '',
+        image: crefin,
+    },
 ];
 
 
