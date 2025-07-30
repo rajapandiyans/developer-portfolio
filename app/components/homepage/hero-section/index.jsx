@@ -118,7 +118,6 @@ function HeroSection() {
                 <span className="text-amber-300">Python</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MySql</span>
-                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
