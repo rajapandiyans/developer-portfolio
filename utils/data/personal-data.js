@@ -12,5 +12,5 @@ export const personalData = {
   twitter: 'https://x.com/Raj_1903_?t=kC4PMWs7QxVR9-GucA6htA&s=09',
   stackOverflow: 'https://stackoverflow.com/users/27521101/rajapandiyan-s',
   leetcode: "https://leetcode.com/u/rajapandiyan19/",
-  resume: "https://drive.google.com/file/d/1fw0cJ1zic8MlCZBXSYSRsqoe-6fA9YyQ/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1hdR9gYSAI6HLu90cQUq72OHJrsgz3zQa/view"
 }
