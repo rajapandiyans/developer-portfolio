@@ -14,7 +14,7 @@ export const projectsData = [
     },
     {
         id: 2,
-        name: 'Website Development for GenSyx Solutions(Freelancing)',
+        name: 'Website Development for GenSyx Solutions',
         description: 'I have designed and developed an Website for Freelancing Company, I created the website using HTML,CSS,JS,Typescript.',
         tools: ["HTML,CSS,JS,Typescript"],
         role: 'FullStack Developer',
